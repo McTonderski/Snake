@@ -13,7 +13,7 @@ window.configure(background = 'dark green')
 
 Width = 600 / 10
 Height = 400 / 10
-speed = 100
+speed = 90
 size = 10
 pkt = 0
 
